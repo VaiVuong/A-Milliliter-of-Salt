@@ -7,6 +7,8 @@ Game Design Document: https://mailuc-my.sharepoint.com/:w:/r/personal/iselekp_ma
 
 Wire Frame Diagram: https://www.figma.com/design/2yLHJwpwINBmIA5Va8CQGE/AMSGame?node-id=0-1&t=RmCCvMBVSG9vnqwe-1
 
+Proj Presentation: https://docs.google.com/presentation/d/1i2DMzbu81rG1yhOOA5LQyTEI8Oai-JG2a2Il2uD1_dI/edit?usp=sharing
+
 ## Introduction
   ipse lorem
 
